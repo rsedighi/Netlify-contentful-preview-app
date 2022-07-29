@@ -1,4 +1,4 @@
-# Netlify Preview Contentful App
+# Netlify Preview Contentful Appp
 
 This Contentful app lets you preview your draft content on your static site before your publish to production.
 
